@@ -1,5 +1,6 @@
 # Mujoco-Hopper
-Mujoco Hopper agent with DDPG
+Mujoco Hopper agent with DDPG  
+![hopper](https://raw.githubusercontent.com/sizzle0121/Mujoco-Hopper/master/img/video.gif)  
 ## Build Requirement
 Python 3.5  
 Pytorch 0.4.1  
